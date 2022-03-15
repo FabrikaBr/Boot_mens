@@ -26,6 +26,8 @@ We believe in community economic models and decentralized governance. Our applic
       <p>2022- 3Q/4Q lessons learned KB, creating business environment, planning for 1Q/2Q 2022 and 3Q/4Q 2022. </p>
      
       <Link to="/About/">About</Link>
+      <p>White Paper</p>
+      <p>https://github.com/FabrikaBr/fabrikabrI0x/blob/636c42215e0733ef1cf3736648d2b573e9ea3222/White%20Paper</p>
       <p>Learn more about us, help build our story everyone is welcome.</p>
   
   
