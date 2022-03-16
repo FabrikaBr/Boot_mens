@@ -15,7 +15,7 @@ We believe in community economic models and decentralized governance. Our applic
     
     <p>
       
-      <Link to="/using-typescript/">Blockchain</Link><br />
+      <Link to="/blockchain/">Blockchain</Link><br />
       <p>Learn about this technology that is changing the world. Discover the world of encryption and smart contracts, know what they are and how airdrops ICO, IDO, IEO and IFO.</p>
       
   
