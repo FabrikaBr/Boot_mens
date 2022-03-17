@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://https://fabrikabr.io/">
+    <img alt="FabrikaBrIO" src="https://fabrikabr.org/sites/default/files/unnamed_0_0.png" width="60" />
   </a>
 </p>
 <h1 align="center">
